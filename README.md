@@ -91,7 +91,3 @@ const aboutMe = {
 </a>
 
 <br/>
-
----
-
-# i r u u u u u
